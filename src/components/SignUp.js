@@ -28,10 +28,10 @@ function SignUp() {
   return (
     <div className="signup-wrapper">
       <div className="split left">
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Left Background" />
+     <img src="https://media1.tenor.com/m/aZt1z6qsHaIAAAAd/kalki-2898-ad.gif" alt="Left Background" />
       </div>
       <div className="split right">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Right Background" />
+        <img src="https://media.tenor.com/id3yLSM1NqwAAAAM/kalki-2898-ad-prabhas.gif" alt="Right Background" />
       </div>
 
       <div className="signup-container">

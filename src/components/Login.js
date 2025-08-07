@@ -54,10 +54,10 @@ function Login() {
   return (
     <div className="login-wrapper">
       <div className="split left">
-        <img src="C:\Users\pavan.ks\Desktop\ReactJS\my-react-app\public\salaar_climax.gif" alt="Left Background" />
+        <img src="https://media.tenor.com/FtappBZ8dRkAAAAM/salaar-cease-fire.gif" alt="Left Background" />
       </div>
       <div className="split right">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Right Background" />
+        <img src="https://media.tenor.com/Y6TrzMlLHjIAAAAM/prabhas-cool.gif" alt="Right Background" />
       </div>
 
       <div className="login-container">
