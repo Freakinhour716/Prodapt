@@ -54,7 +54,7 @@ function Login() {
   return (
     <div className="login-wrapper">
       <div className="split left">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Left Background" />
+        <img src="C:\Users\pavan.ks\Desktop\ReactJS\my-react-app\public\salaar_climax.gif" alt="Left Background" />
       </div>
       <div className="split right">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Right Background" />
