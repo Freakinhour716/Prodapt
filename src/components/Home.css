@@ -1,5 +1,14 @@
 
 
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden; /* Prevent horizontal scroll only */
+  overflow-y: auto;   /* Enable vertical scroll */
+}
+
 .home-container {
   display: flex;
   flex-direction: column;
@@ -42,10 +51,5 @@
   background-image: url('https://media.tenor.com/FhVCVE1BH-kAAAAM/bahubali-great-personality.gif');
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  overflow: auto; 
-}
 
 

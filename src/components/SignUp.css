@@ -4,8 +4,10 @@ body, html {
   padding: 0;
   height: 100%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  overflow: hidden;
+  overflow-x: hidden; /* Prevent horizontal scroll only */
+  overflow-y: auto;   /* Enable vertical scroll */
 }
+
 
 .signup-wrapper {
   display: flex;
