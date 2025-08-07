@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Prodapt/static/css/main.296b7920.css",
+    "main.js": "/Prodapt/static/js/main.b8ecb855.js",
+    "static/js/453.b21a91d2.chunk.js": "/Prodapt/static/js/453.b21a91d2.chunk.js",
+    "static/media/salaar_climax.gif": "/Prodapt/static/media/salaar_climax.0451d351de89afb0cd7b.gif",
+    "static/media/kalki.gif": "/Prodapt/static/media/kalki.3d9336948addfaf95ccc.gif",
+    "static/media/bb2.gif": "/Prodapt/static/media/bb2.67111d3d3efea6b26143.gif",
+    "static/media/logo.svg": "/Prodapt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prodapt/index.html",
+    "main.296b7920.css.map": "/Prodapt/static/css/main.296b7920.css.map",
+    "main.b8ecb855.js.map": "/Prodapt/static/js/main.b8ecb855.js.map",
+    "453.b21a91d2.chunk.js.map": "/Prodapt/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.296b7920.css",
+    "static/js/main.b8ecb855.js"
+  ]
+}
